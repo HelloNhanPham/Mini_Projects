@@ -1,0 +1,514 @@
+55
+In a soccer match, a team has a maximum of how many players on the field?
+0
+10
+0
+12
+1
+11
+0
+13
+Which is the largest ocean in the world?
+0
+Arctic Ocean
+0
+Indian Ocean
+0
+Atlantic Ocean
+1
+Pacific Ocean
+Hai Van Pass connects which two provinces/cities in Vietnam?
+0
+Thua Thien Hue - Quang Tri
+0
+Quang Nam - Da Nang
+1
+Da Nang - Thua Thien Hue
+0
+Nghe An - Ha Tinh
+Huong River is a river located in which province/city?
+0
+Da Nang
+0
+Quang Nam
+1
+Thua Thien Hue
+0
+Quang Binh
+Nho Que river is located in which province/city of our country?
+0
+Lao Cai
+0
+Yen Bai
+0
+Cao Bang
+1
+Ha Giang
+Ba Na Hill is located in which province/city of our country?
+0
+Quang Nam
+0
+Hue
+1
+Da Nang
+0
+Quang Tri
+Cat Tien National Park is located in which province of Vietnam?
+1
+Dong Nai
+0
+Tay Ninh
+0
+Ho Chi Minh City
+0
+Binh Phuoc
+In which province is the southernmost tip of Vietnam located?
+0
+Bac Lieu
+1
+Ca Mau
+0
+Kien Giang
+0
+Soc Trang
+In which province is the northernmost part of Vietnam located?
+0
+Ha Noi
+0
+Quang Ninh
+0
+Lao Cai
+1
+Ha Giang
+Quan ho folk songs are characteristic of which province?
+0
+Ha Giang
+1
+Bac Ninh
+0
+Nam Dinh
+0
+Ha Noi
+Most populous country in the world:
+0
+Russia
+0
+America
+0
+Brazil
+1
+China
+The country is the largest in the world:
+1
+Russia
+0
+China
+0
+America
+0
+Brazil
+Where is the origin of Buddhism?
+0
+China
+0
+Viet Nam
+1
+India
+0
+Thailand
+Which is largest river in the world?
+1
+Amazon river
+0
+Nile river
+0
+Truong Giang River
+0
+Hoang Hoa river
+The pyramid is the symbol of which Africa country?
+1
+Egypt
+0
+South Africa
+0
+Ethiopia
+0
+Sudan
+Which country is shaped like a chili pepper?
+0
+Brazil
+0
+America
+0
+Argentina
+1
+Chile
+How many ethnic groups does Vietnam have?
+0
+51
+0
+52
+0
+53
+1
+54
+Located on the Hoang Lien Son range, Mu Cang Chai is a remote district of this province:
+0
+Dien Bien
+0
+Lao Cai
+1
+Yen Bai
+0
+Ha Giang
+In May 2008, which country decided to leave the World Petroleum Exporting Organization OPEC?
+1
+Indonesia
+0
+Malaysia
+0
+Philipine
+0
+Myanmar
+EURO was first held in which country?
+0
+Germany
+0
+Spain
+0
+England
+1
+France
+What country is Dirichlet from?
+0
+England
+1
+Germany
+0
+France
+0
+Italy
+In what country is the Colosseum located?
+0
+France
+0
+Endland
+1
+Italy
+0
+Germany
+Angkor Wat is located in which country?
+0
+Laos
+0
+Myanmar
+1
+Cambodia
+0
+Thailand
+In which country is Taj Mahal located?
+0
+Malaysia
+0
+Philipine
+1
+India
+0
+Turkey
+Who was the first Vietnamese to fly into space?
+1
+Pham Tuan
+0
+Tran Dai Nghia
+0
+Ta Quang Buu
+0
+Pham Van Dong
+Who was the founder of the Ly Dynasty?
+0
+Ly Chieu Hoang
+1
+Ly Cong Uan
+0
+Ly Thuong Kiet
+0
+Ly Bi
+Vietnam's only female emperor:
+0
+Huyen Tran Cong Chua
+1
+Ly Chieu Hoang
+0
+Duong Van Nga
+0
+Y Lan Nguyen Phi
+Chemical symbol for magnesium:
+0
+Ag
+0
+Au
+1
+Mg
+0
+Sn
+Chemical symbol for chlorine
+0
+F
+0
+I
+0
+Br
+1
+Cl
+Chemical symbol for iron:
+1
+Fe
+0
+Al
+0
+Zn
+0
+Mg
+The day of liberation of the South and national reunification of Vietnam:
+0
+2/9/1945
+1
+30/4/1975
+0
+30/8/1945
+0
+1/5/1975
+Who was the one who quelled the rebellion of the 12 warlords?
+0
+Le Hoan
+0
+Le Loi
+1
+Dinh Bo Linh
+0
+Ngo Quyen
+Who ended 1,000 Northern domination?
+0
+Dinh Bo Linh
+1
+Ngo Quyen
+0
+Le Hoan
+0
+Ly Cong Uan
+Ly Son island district belongs to which province?
+0
+Quang Nam
+0
+Binh Thuan
+1
+Quang Ngai
+0
+Quang Tri
+Which province does the Hoang Sa archipelago belong to?
+0
+Quang Nam
+1
+Da Nang
+0
+Khanh Hoa
+0
+Quang Binh
+In which province is Cai Rang floating market located?
+0
+Vinh Long
+0
+Ben Tre
+1
+Can Tho
+0
+Ca Mau
+"Nem chua" is a specialty of which province?
+0
+Ha Tinh
+0
+Nghe An
+1
+Thanh Hoa
+0
+Bac Ninh
+Tuna eyes are a specialty of which province?
+0
+Binh Thuan
+1
+Phu Yen
+0
+Ninh Thuan
+0
+Ba Ria Vung Tau
+Where is Cam Ranh Bay located?
+0
+Quang Binh
+0
+Da Nang
+1
+Nha Trang
+0
+Binh Thuan
+In which country is Big Ben tower located?
+0
+Germany
+1
+Endland
+0
+France
+0
+Netherland
+Ao dai is the traditional costume of which country?
+0
+Malaysia
+0
+Cambodia
+1
+Viet Nam
+0
+Thailand
+The panda is called the national treasure of which country?
+0
+Viet Nam
+0
+Japan
+0
+Korea
+1
+China
+In which province/city is Hoi An ancient town located?
+0
+Quang Ngai
+1
+Quang Nam
+0
+Quang Binh
+0
+Quang Tri
+In which province/city is Ha Long Bay located?
+0
+Ha Noi
+1
+Quang Ninh
+0
+Nam Dinh
+0
+Ninh Binh
+Vietnam's history goes through many years of Northern domination:
+0
+900
+0
+800
+1
+1000
+0
+1100
+The last king of the Nguyen Dynasty is:
+0
+Gia Long
+0
+Minh Mang
+1
+Bao Dai
+0
+Thanh Thai
+Who is the one who uses the name of King Ham Nghi to issue the king's edict?
+0
+Truong Dang Que
+1
+Ton That Thuyet
+0
+Truong Dinh
+0
+Nguyen Trung Truc
+Who is a mathematician?
+0
+Marrie Currie
+0
+Albert Einstein
+1
+Issac Newton
+0
+Nicolas Tesla
+Which country is located in East Asia?
+0
+Turkey
+0
+Russia
+1
+China
+0
+Thailand
+ASEAN includes how many member countries?
+0
+10
+0
+9
+1
+11
+0
+12
+Which country is Cristiano Ronaldo from?
+0
+England
+0
+Brazil
+1
+Portugal
+0
+Spain
+Who defeated the Yuan army three times on Dai Viet land?
+1
+Tran Hung Dao
+0
+Le Loi
+0
+Quang Trung
+0
+Ly Thuong Kiet
+In which continent is Vietnam located?
+0
+Africa
+0
+Europe
+0
+America
+1
+Asia
+Which is the name of a programming language?
+0
+C--
+1
+C++
+0
+CCC
+0
+C+-
+Uncle Ho's real name is:
+0
+Nguyen Ai Quoc
+0
+Van Ba
+1
+Nguyen Sinh Cung
+0
+Nguyen Tat Thanh
+What is a social subject?
+0
+Math
+0
+Biology
+1
+Geography
+0
+Physic
+Who is the author of "Binh Ngo Dai Cao"?
+0
+Nguyen Binh Khiem
+0
+Nguyen Dinh Chieu
+1
+Nguyen Trai
+0
+Nguyen Du

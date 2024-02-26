@@ -3,3 +3,4 @@ List of projects:
 2. Casino Number Guessing Game
 3. Hang Man Game
 4. Manage Student
+5. Fun quiz game
